@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+.writing-vertical-rl {
+  writing-mode: vertical-rl;  
+  text-orientation: upright;
+}
