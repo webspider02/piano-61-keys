@@ -41,5 +41,4 @@ export const NOTES = [
   { id: 35, name: "Bb4", file: "/audio/Bb4.mp3", type: "black", value: "p + ⇧", key: "P" },
   { id: 36, name: "B4", file: "/audio/B4.mp3", type: "white", value: "a", key: "a" },
 
-  // Continue for other octaves similarly...
 ];
